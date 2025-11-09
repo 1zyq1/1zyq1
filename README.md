@@ -2,10 +2,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&&section=header&text=HI%201zyq1&fontSize=90&fontAlign=50&fontAlignY=28" />
 </p>
 <br>
-一只纯业余的编程爱好者，略懂略懂 *Amateur programming enthusiast*
+一只纯业余的编程爱好者，略懂略懂
 
 - 想要了解更多，请关注我的博客[1zyq1"blog](https://www.1zyq1.top/)
-- Read more about my Blog [Blog](https://www.1zyq1.top/)
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=C-Sharp&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
@@ -19,11 +18,6 @@
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
-
-#### 1zyq1 Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=1zyq1&show_icons=true&hide_border=true&line_height=24&theme=dark"
@@ -32,4 +26,18 @@
   <img src="https://github-readme-stats.vercel.app/api?username=1zyq1&show_icons=true&hide_border=true&line_height=24" />
 </picture>
 <br>
+
+
+
+
+
+
+
+
+
+#### 1zyq1 Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
