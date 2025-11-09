@@ -27,17 +27,3 @@
 </picture>
 <br>
 
-
-
-
-
-
-
-
-
-#### 1zyq1 Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
