@@ -1,73 +1,10 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&&section=header&text=HI%201zyq1&fontSize=90&fontAlign=50&fontAlignY=28" />
 </p>
-
-
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
-
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=1zyq1&show_icons=true&hide_border=true&line_height=24&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=1zyq1&show_icons=true&hide_border=true&line_height=24" />
-</picture>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=1zyq1&layout=compact&hide_border=true&langs_count=8&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1zyq1&layout=compact&hide_border=true&langs_count=8" />
-</picture>
-
-</div>
-
-# 🌟 欢迎来到我的 GitHub 主页！
-
-## 👨‍💻 关于我 (About Me)
-
-<img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
-
-<p>&emsp;&emsp;你好！我是 1zyq1，一个热衷于探索计算机底层技术的开发者。</p>
-<p>&emsp;&emsp;我的目标是深入理解计算机的运作原理，从 CPU 到操作系统，再到编译原理和网络协议，力求“实现”一台完整的计算机系统。</p>
-<p>&emsp;&emsp;我相信通过代码的复用和不断的扩展，我们可以构建出优雅且可维护的完美体系，让世界因技术而变得更加美好。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
-
-<!-- for beauty 留个空行好看点 -->
-<div>&nbsp;</div>
-
-## 🚀 我的项目与兴趣 (Projects & Interests)
-
-*   **操作系统与底层开发**: 深入研究操作系统内核、驱动程序开发以及嵌入式系统。
-*   **编译原理**: 探索编程语言的解析、优化和代码生成过程。
-*   **网络协议栈**: 理解 TCP/IP 等核心网络协议的实现细节。
-*   **高性能计算**: 关注如何优化代码以达到极致的性能。
-
-## 📊 GitHub 数据统计 (GitHub Stats)
-
-<!-- metrics 基础资料 -->
-<img src="/github-metrics.svg" />
-
-<!-- GitHub 数据统计 -->
-<img src= "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=1zyq1_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img src  = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=1zyq1_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-
-<!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=1zyq1&theme=light&hide_border=true" />
-  <img src="https://streak-stats.demolab.com/?user=1zyq1&theme=dark&hide_border=true" />
-</picture>
-
-<!-- GitHub Activity Graph GitHub 活动图 -->
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=1zyq1&theme=tokyo-night" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=1zyq1&theme=xcode" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=1zyq1&theme=tokyo-night" />
-      </picture>
-  </tr>
-</table>
+<p align="center">
+<a href="https://github.com/gzzzxx"><img src="https://img.shields.io/badge/GitHub-gzzzxx-blue?logo=github" /></a>
+<a href="https://gitee.com/gzzzxx"><img src="https://img.shields.io/badge/Gitee-gzzzxx-red?logo=gitee&logoColor=rgb(199, 29, 35)" /></a>
+<a href="https://blog.csdn.net/weixin_41386222?type=blog"><img src="https://img.shields.io/badge/CSDN-Gzzz__-green?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAB+FBMVEUAAABqMy7wroeAUEvuso1vOTNwOzbxt5WKYFyniYm/qKLe3s1sNTBsNjGQVkhvODR6Rj7ip4XutZOCU07wtpXxupnst5eKXFmJXlrwu5qKbWryv6Hzx62gfXuwiYb44tNvODNWNSuKUUbwr4iKUkXwsImCVUZ3Qjt5UkN3QjvwsYtGLSfws454SERyPzp4RD/ws4/ws49xPzvvtI/xtJBPODJ7S0Z7SkXWnIFiTkbVnIGCU0/ps5TxvaDwvqGSaWWSaGiOaGSTb2uPamXzx7HxyrCjhHrwrYVqMi3wrITuq4RrMy63eF9jPS/Cg2fupoLqqIHopoDfn3rXlnXAfmSwcluNWkfioHzmkXrihXXccW2zdFypbFehZlKFWUVzSTlwSTh7QThuNS9VMyjto4HlpH7ionzjh3bXmXXOkG/Mi22tb1l/UUB9TT15TDxtRzZcNytZNypRMCVPLiTrnn/cnXnZm3fZmHbhgXTddG7IiGvMgGrPY2S2gGK+e2K1dl7CXV6uel28WlqocFika1WnalWdbFOaYk6dYE6SYUySVkaQVUaIVkSCV0OHVEOJTkF4UD2CRTxmQTJaLCZXKyVNKyJJJR9EIx0+IRrTknLffXLabWzZbGzFi2u5emGucFqicVeXaFCSXUp1STpdOy1hNyxdMilXMCfoEl0hAAAAR3RSTlMA/vqLn+7meVAWDgX59/X13LSGgoF7c2hdVlJQLSklEff18/Ly7+zs5ubi4djX1szHxMG5uLSjnZaJhn1pXldEPT05Ny4nGbaUVn8AAAIPSURBVDjLvdNFlxpBEMDxBgLsknX3jbu7e1I1wzC4OyzusO7u7nFPvmYGwr4HWZJc8vI71at/H/rQTf65g3/pReclTX/qj0rKL175fW4ViBCRd0HQWjC/uFGCWaU3i/f3hyLMIXq873alKJVma3oqL8rvTw7Ns+qeALOCuMIEetTsvPBpbpdUsBSk0SMjdGag2ApJzgEBC4qxJdtQJtJDNtuYAjSCvfpMfKeMUslkOp3MoQTwxNLTup4uuyVuSfcqPoTeUfbIicN2JqoDsEW1p9zh6CowIeDXEXIfaMNasHtr+fb1nWXG7fEmGXvT2e2ZlCq4ZqChmVwC46Ar+DYe2dndjAzHk6nEsGx7d+NTPNDvGvTBVXKGMo3ie3/K8n3jm0WT6PK7NTNbm1/Nya4QjvbBOXIZjOPoVK4vmq1mzdwSUKtzGq2VWYwpnTjug2vkAdADiFa12z45EZZ5AVRfwhOTnxPdVsQBit9MiJivkqJ0Vv0x5vig1FOU3jPtcEz7Z7mlil9LOC33TiOiUwEAL139rEvNDQontzpZ95z8VI2IC8BRar16rSI9LXCrarKnWIhogTwWRGHOo2jgoRnA4Ms0ymgA0CKvgeS4y5sC6DAZ5UB19PbJAaZ4ApKn/gjNnXj1xmR63ct1+lg9+UVbJXDknZ1y4FS2Ffgytcch62hN4f/T3lhzgFPV2E7+qx9xsqq+PsbsOwAAAABJRU5ErkJggg==" /></a>
+<a href="https://blog.gzzz.pro"><img src="https://img.shields.io/badge/Blog-blog.gzzz.pro-pink?logo=Blogger&logoColor=rgb(135, 206, 250)" /></a>
+<a href="https://github.com/gzzzxx"><img src="https://komarev.com/ghpvc/?username=gzzzxx&abbreviated=true&color=yellow" ></a>
+</p>
