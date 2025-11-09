@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=28&desc=I%20am%gzzzxx%F0%9F%98%81&descAlign=50&descSize=30&descAlignY=56&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&&section=header&text=HI%201zyq1&fontSize=90&fontAlign=50&fontAlignY=28&desc=I%20am%gzzzxx%F0%9F%98%81&descAlign=50&descSize=30&descAlignY=56&animation=twinkling" />
 </p>
 
 
@@ -7,11 +7,20 @@
   <div>&nbsp;</div>
 
 
-<!-- profile logo 个人资料徽标 -->
-  <div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1zyq1&stats_format=bytes)
-  </div>
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=gzzzxx&show_icons=true&hide_border=true&line_height=24&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gzzzxx&show_icons=true&hide_border=true&line_height=24" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gzzzxx&layout=compact&hide_border=true&langs_count=8&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzzzxx&layout=compact&hide_border=true&langs_count=8" />
+</picture>
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1zyq1/1zyq1/output/github-contribution-grid-snake-dark.svg">
