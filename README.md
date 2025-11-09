@@ -4,7 +4,7 @@
 <br>
 一只纯业余的编程爱好者，略懂略懂
 
-- 想要了解更多，请关注我的博客[1zyq1"blog](https://www.1zyq1.top/)
+想要了解更多，请关注我的博客[1zyq1"blog](https://www.1zyq1.top/)
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=C-Sharp&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
