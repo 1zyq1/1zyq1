@@ -14,5 +14,4 @@
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=1zyq1&layout=compact&hide_border=true&langs_count=8&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1zyq1&layout=compact&hide_border=true&langs_count=8" />
 </picture>
