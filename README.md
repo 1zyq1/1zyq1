@@ -7,7 +7,7 @@
 
 <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://www.1zyq1.top"><img src="https://q1.qlogo.cn/g?b=qq&nk=2289308183&s=640" /></a>&emsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1zyq1&stats_format=bytes)
   </div>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
